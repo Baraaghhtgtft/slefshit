@@ -3,7 +3,7 @@ const client = new Discord.Client();
 const prefix = '.'
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`الشيء الي تبيه`,)
+client.user.setGame(`AFK,,!`,)
   console.log('')
   console.log('')
   console.log('╔[═════════════════════════════════════════════════════════════════]╗')
